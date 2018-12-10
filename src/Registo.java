@@ -20,4 +20,6 @@ public class Registo {
         this.Password =password;
     }
     
+
+    
 }
